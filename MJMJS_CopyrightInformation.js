@@ -14,8 +14,8 @@
 *
 * --Copyright Information
 * if using this script please include "Jomarcenter-MJM" in the credits
-* This can be used Commercially regardless of Game's Content (this includes R-18 content)
-*
+* This can be used Commercially regardless of Game's Content 
+
 * This script is provided free any unthorized sales or distributions may result in legal actions
 * 
 *

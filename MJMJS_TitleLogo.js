@@ -21,7 +21,7 @@
  * 
  * --Copyright Information
  * if using this script please include "Jomarcenter-MJM" or "MJM Creatve Works and Ideas" in the credits
- * This can be used Commercially regardless of Game's Content (this includes R-18 content)
+ * This can be used Commercially regardless of Game's Content 
  *
  * Created by Jomarcenter-MJM Under MJM Creative Works and Ideas
  * 2020 MJM Creative Works and Ideas

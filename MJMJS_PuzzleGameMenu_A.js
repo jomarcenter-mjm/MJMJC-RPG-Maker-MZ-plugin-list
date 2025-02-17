@@ -3,8 +3,6 @@
  * @plugindesc Modification of the main menu of the game to more design for puzzle games.
  * @author jomarcenter-mjm / MJM Creative works and ideas
  * 
- * This is a cutom plugin for Town of illustive series and is not avalable
- * for other public use.
  * 
  * @help
  * MJM Creative works and idea provided the plugins for free and out of our
